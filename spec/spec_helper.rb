@@ -1,4 +1,5 @@
 $LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
 require 'githubkun'
 
+require "json"
 require "webmock/rspec"
