@@ -1,3 +1,7 @@
+require "rest-client"
+require "thor"
+
+require "githubkun/cli"
 require "githubkun/github"
 require "githubkun/version"
 
